@@ -4,6 +4,9 @@
 
 A simple and user-friendly GUI-based batch video converter designed to make video conversions to different formats. This tool uses `Gradio` for an intuitive interface and `FFmpeg` for robust video processing. GPU acceleration is supported for faster performance when available.
 
+Use the hosted demo on Hugging Face Spaces:
+[Batch Video Converter Demo](https://huggingface.co/spaces/reab5555/Batch-Video-Converter)
+
 ---
 
 ## Features
