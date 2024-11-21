@@ -7,6 +7,7 @@ A simple and user-friendly GUI-based batch video converter designed to make vide
 ## Features
 
 This tool enables batch video conversion with support for popular formats like MP4, MKV, AVI, and MOV. It offers advanced codec options such as H.264, HEVC (H.265), and ProRes, ensuring compatibility with various needs.  
+
 You can customize output settings like resolution (4K, 1080p, 720p, etc.), bitrate (manual or auto), and frame rate (same as input or specific values like 30 or 60 FPS). 
 
 The interface provides real-time conversion progress updates and makes downloading results straightforward. GPU acceleration is available to significantly speed up processing.
