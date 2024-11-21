@@ -12,7 +12,7 @@ This tool enables batch video conversion with support for popular formats like M
 
 You can customize output settings like resolution (4K, 1080p, 720p, etc.), bitrate (manual or auto), and frame rate (same as input or specific values like 30 or 60 FPS). 
 
-The interface provides real-time conversion progress updates and makes downloading results straightforward. GPU acceleration is available to significantly speed up processing.
+GPU acceleration is available to significantly speed up processing.
 
 ---
 
