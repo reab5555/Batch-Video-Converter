@@ -43,6 +43,6 @@ If you are running on Linux, use the provided apt.txt file to install required p
 sudo xargs -a apt.txt apt-get install -y
 ```
 
-FFmpeg for Windows:
+FFmpeg for Windows:   
 You can download ffmpeg from https://www.gyan.dev/ffmpeg/builds/ and place it in the same directory where the scripts are running from.
 
