@@ -4,7 +4,7 @@
 
 A simple and user-friendly GUI-based batch video converter designed to make video conversions to different formats.
 
-Use the hosted demo on Hugging Face Spaces:
+Use the hosted demo:
 [Batch Video Converter Demo](https://huggingface.co/spaces/reab5555/Batch-Video-Converter)
 
 ---
