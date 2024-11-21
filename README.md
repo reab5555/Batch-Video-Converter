@@ -20,7 +20,6 @@ GPU acceleration is available to significantly speed up processing.
 
 1. **Upload Videos**: Drag and drop one or multiple video files.
 2. **Set Preferences**: Choose output format, codec, resolution, bitrate, and frame rate.
-3. **Preview**: Check the video preview if needed.
 4. **Convert**: Click the "Convert Videos" button to start the process.
 5. **Download**: Retrieve your converted videos directly from the interface.
 
