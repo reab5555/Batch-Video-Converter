@@ -34,4 +34,15 @@ The tool works on Windows and Linux systems. You need Python 3.8 or higher, `Gra
 
 Run the application:
 ```bash
+pip install -r requirements.txt
 python app.py
+```
+
+If you are running on Linux, use the provided apt.txt file to install required packages:
+```bash
+sudo xargs -a apt.txt apt-get install -y
+```
+
+FFmpeg for Windows:
+You can download ffmpeg from https://www.gyan.dev/ffmpeg/builds/ and place it in the same directory where the scripts are running from.
+
