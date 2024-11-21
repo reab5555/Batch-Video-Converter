@@ -1,3 +1,5 @@
+<img src="icon.png" width="100" alt="alt text">
+
 # Batch Video Converter
 
 A simple and user-friendly GUI-based batch video converter designed to make video conversions to different formats. This tool uses `Gradio` for an intuitive interface and `FFmpeg` for robust video processing. GPU acceleration is supported for faster performance when available.
