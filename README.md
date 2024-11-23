@@ -42,9 +42,9 @@ pip install -r requirements.txt
 python app.py
 ```
 
-If you are running on Linux, use the provided apt.txt file to install required packages:
+If you are running on Linux, use the provided command to install ffmpeg:
 ```bash
-sudo xargs -a apt.txt apt-get install -y
+sudo apt install -y ffmpeg
 ```
 
 FFmpeg for Windows:   
