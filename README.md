@@ -30,7 +30,7 @@ GPU acceleration is available to significantly speed up processing.
 
 ## System Requirements
 
-The tool works on Windows and Linux systems. You need Python 3.9 or higher, `Gradio` for the GUI, and `FFmpeg` installed on your machine. If a CUDA-enabled GPU is present, the tool can use it for faster conversion.
+The tool works on Windows and Linux systems. You need Python 3.9 or higher, `Gradio` for the GUI, and `FFmpeg` installed on your machine. If a CUDA-enabled GPU is present, it can utilize it for faster conversion.
 
 ---
 
