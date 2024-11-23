@@ -39,6 +39,8 @@ The tool works on Windows and Linux systems. You need Python 3.9 or higher, `Gra
 Run the application:
 ```bash
 pip install -r requirements.txt
+```
+```bash
 python app.py
 ```
 
